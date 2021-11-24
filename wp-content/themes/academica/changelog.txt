@@ -1,0 +1,26 @@
+Academica Theme
+http://www.wpzoom.com/themes/academica
+
+CHANGELOG
+---------
+
+V 2.0 (March 26, 2015)
+    - Theme re-design and major updates, including many modifications.
+    - All files were modified
+
+V 1.2.2-wpcom (October 1, 2012)
+	- Converted for use on WordPress.com
+
+V 1.2.2 (December 13, 2011)
+	- An update for WP 3.3
+	- Files edited: header.php, style.css
+
+V 1.2 (August 6, 2011)
+	- An important security fix: /scripts/timthumb.php has been updated to 2.0
+
+V 1.1 (July 20, 2011)
+	- theme moved to new back-end interface of WPZOOM
+	- overall theme improvements, all files have been modified
+
+V 1.0 (August 18, 2010)
+	- initial release
