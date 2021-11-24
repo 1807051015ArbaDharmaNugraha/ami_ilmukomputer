@@ -1,5 +1,8 @@
 # ami_ilmukomputer
+
 ![001](https://user-images.githubusercontent.com/54812583/143149176-1b63b255-11b1-4681-9832-aef693b6840f.PNG)
+Tampilan Awal
+
 ![002](https://user-images.githubusercontent.com/54812583/143149183-3a464400-15b3-4c0c-8de0-8d03010d60d7.PNG)
 ![003](https://user-images.githubusercontent.com/54812583/143149189-c568724c-ebe2-4bca-a91d-8678f96c24ca.PNG)
 ![004](https://user-images.githubusercontent.com/54812583/143149191-ae3804e1-c263-499d-ab60-48c2f5086bd3.PNG)
